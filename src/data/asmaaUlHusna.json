@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Ar Rahman",
+    "number": 1,
+    "arabName": "الرحمن"
+  },
+  {
+    "name": "Ar Rahiim",
+    "number": 2,
+    "arabName": "الرحيم"
+  },
+  {
+    "name": "Al Malik",
+    "number": 3,
+    "arabName": "الملك"
+  },
+  {
+    "name": "Al Quddus",
+    "number": 4,
+    "arabName": "القدوس"
+  },
+  {
+    "name": "As Salaam",
+    "number": 5,
+    "arabName": "السلام"
+  },
+  {
+    "name": "Al Mu 'min",
+    "number": 6,
+    "arabName": "المؤمن"
+  },
+  {
+    "name": "Al Muhaimin",
+    "number": 7,
+    "arabName": "المهيمن"
+  },
+  {
+    "name": "Al 'Aziz",
+    "number": 8,
+    "arabName": "العزيز"
+  },
+  {
+    "name": "Al Jabbar",
+    "number": 9,
+    "arabName": "الجبار"
+  },
+  {
+    "name": "Al Mutakabbir",
+    "number": 10,
+    "arabName": "المتكبر"
+  },
+  {
+    "name": "Al Khaliq",
+    "number": 11,
+    "arabName": "الخالق"
+  },
+  {
+    "name": "Al Baari'",
+    "number": 12,
+    "arabName": "البارئ"
+  },
+  {
+    "name": "Al Mushawwir",
+    "number": 13,
+    "arabName": "المصور"
+  },
+  {
+    "name": "Al Ghaffaar",
+    "number": 14,
+    "arabName": "الغفار"
+  },
+  {
+    "name": "Al Qahhaar",
+    "number": 15,
+    "arabName": "القهار"
+  },
+  {
+    "name": "Al Wahaab",
+    "number": 16,
+    "arabName": "الوهاب"
+  },
+  {
+    "name": "Ar Razaaq",
+    "number": 17,
+    "arabName": "الرزاق"
+  },
+  {
+    "name": "Al Fathaah",
+    "number": 18,
+    "arabName": "الفتاح"
+  },
+  {
+    "name": "Al 'Alim",
+    "number": 19,
+    "arabName": "العليم"
+  },
+  {
+    "name": "Al Qaabidh",
+    "number": 20,
+    "arabName": "القابض"
+  },
+  {
+    "name": "Al Baasith",
+    "number": 21,
+    "arabName": "الباسط"
+  },
+  {
+    "name": "Al Khaafidh",
+    "number": 22,
+    "arabName": "الخافض"
+  },
+  {
+    "name": "Ar Raafi '",
+    "number": 23,
+    "arabName": "الرافع"
+  },
+  {
+    "name": "Al Mu'izz",
+    "number": 24,
+    "arabName": "المعز"
+  },
+  {
+    "name": "Al Mudzil",
+    "number": 25,
+    "arabName": "المذل"
+  },
+  {
+    "name": "Al Samii '",
+    "number": 26,
+    "arabName": "السميع"
+  },
+  {
+    "name": "Al Basir",
+    "number": 27,
+    "arabName": "البصير"
+  },
+  {
+    "name": "Al Hakam",
+    "number": 28,
+    "arabName": "الحكم"
+  },
+  {
+    "name": "Al 'Adl",
+    "number": 29,
+    "arabName": "العدل"
+  },
+  {
+    "name": "Al Lathiif",
+    "number": 30,
+    "arabName": "اللطيف"
+  },
+  {
+    "name": "Al Khabiir",
+    "number": 31,
+    "arabName": "الخبير"
+  },
+  {
+    "name": "Al Haliim",
+    "number": 32,
+    "arabName": "الحليم"
+  },
+  {
+    "name": "Al 'Azim",
+    "number": 33,
+    "arabName": "العظيم"
+  },
+  {
+    "name": "Al Ghafuur",
+    "number": 34,
+    "arabName": "الغفور"
+  },
+  {
+    "name": "As Shakuur",
+    "number": 35,
+    "arabName": "الشكور"
+  },
+  {
+    "name": "Al 'Aliy",
+    "number": 36,
+    "arabName": "العلى"
+  },
+  {
+    "name": "Al Kabiir",
+    "number": 37,
+    "arabName": "الكبير"
+  },
+  {
+    "name": "Al Hafizh",
+    "number": 38,
+    "arabName": "الحفيظ"
+  },
+  {
+    "name": "Al Muqiit",
+    "number": 39,
+    "arabName": "المقيت"
+  },
+  {
+    "name": "Al Hasiib",
+    "number": 40,
+    "arabName": "الحسيب"
+  },
+  {
+    "name": "Al Jalil",
+    "number": 41,
+    "arabName": "الجليل"
+  },
+  {
+    "name": "Al Karim",
+    "number": 42,
+    "arabName": "الكريم"
+  },
+  {
+    "name": "Ar Raqib",
+    "number": 43,
+    "arabName": "الرقيب"
+  },
+  {
+    "name": "Al Mujib",
+    "number": 44,
+    "arabName": "المجيب"
+  },
+  {
+    "name": "Al Waasi'u",
+    "number": 45,
+    "arabName": "الواسع"
+  },
+  {
+    "name": "Al Hakim",
+    "number": 46,
+    "arabName": "الحكيم"
+  },
+  {
+    "name": "Al Wadud",
+    "number": 47,
+    "arabName": "الودود"
+  },
+  {
+    "name": "Al Majid",
+    "number": 48,
+    "arabName": "المجيد"
+  },
+  {
+    "name": "Al Bari'th",
+    "number": 49,
+    "arabName": "الباعث"
+  },
+  {
+    "name": "As Shahid",
+    "number": 50,
+    "arabName": "الشهيد"
+  },
+  {
+    "name": "Al Haqq",
+    "number": 51,
+    "arabName": "الحق"
+  },
+  {
+    "name": "Al Wakil",
+    "number": 52,
+    "arabName": "الوكيل"
+  },
+  {
+    "name": "Al Qawiyyu",
+    "number": 53,
+    "arabName": "القوى"
+  },
+  {
+    "name": "Al Matin",
+    "number": 54,
+    "arabName": "المتين"
+  },
+  {
+    "name": "Al Waliyy",
+    "number": 55,
+    "arabName": "الولى"
+  },
+  {
+    "name": "Al Hamiid",
+    "number": 56,
+    "arabName": "الحميد"
+  },
+  {
+    "name": "Al Muhshii",
+    "number": 57,
+    "arabName": "المحصى"
+  },
+  {
+    "name": "Al Mubdi '",
+    "number": 58,
+    "arabName": "المبدئ"
+  },
+  {
+    "name": "Al Mu'iid",
+    "number": 59,
+    "arabName": "المعيد"
+  },
+  {
+    "name": "Al Muhyii",
+    "number": 60,
+    "arabName": "المحيى"
+  },
+  {
+    "name": "Al Mumiitu",
+    "number": 61,
+    "arabName": "المميت"
+  },
+  {
+    "name": "Al Hayyu",
+    "number": 62,
+    "arabName": "الحي"
+  },
+  {
+    "name": "Al Qayyuum",
+    "number": 63,
+    "arabName": "القيوم"
+  },
+  {
+    "name": "Al Waajid",
+    "number": 64,
+    "arabName": "الواجد"
+  },
+  {
+    "name": "Al Maajid",
+    "number": 65,
+    "arabName": "الماجد"
+  },
+  {
+    "name": "Al Wahiid",
+    "number": 66,
+    "arabName": "الواحد"
+  },
+  {
+    "name": "Al Ahad",
+    "number": 67,
+    "arabName": "الاحد"
+  },
+  {
+    "name": "As Shamad",
+    "number": 68,
+    "arabName": "الصمد"
+  },
+  {
+    "name": "Al Qaadir",
+    "number": 69,
+    "arabName": "القادر"
+  },
+  {
+    "name": "Al Muqtadir",
+    "number": 70,
+    "arabName": "المقتدر"
+  },
+  {
+    "name": "Al Muqaddim",
+    "number": 71,
+    "arabName": "المقدم"
+  },
+  {
+    "name": "Al Mu 'akkhir",
+    "number": 72,
+    "arabName": "المؤخر"
+  },
+  {
+    "name": "Al Awwal",
+    "number": 73,
+    "arabName": "الأول"
+  },
+  {
+    "name": "Al Aakhir",
+    "number": 74,
+    "arabName": "الأخر"
+  },
+  {
+    "name": "Az Zhaahir",
+    "number": 75,
+    "arabName": "الظاهر"
+  },
+  {
+    "name": "Al Baathin",
+    "number": 76,
+    "arabName": "الباطن"
+  },
+  {
+    "name": "Al Waali",
+    "number": 77,
+    "arabName": "الوالي"
+  },
+  {
+    "name": "Al Muta'aalii",
+    "number": 78,
+    "arabName": "المتعالي"
+  },
+  {
+    "name": "Al Barru",
+    "number": 79,
+    "arabName": "البر"
+  },
+  {
+    "name": "At Tawwaab",
+    "number": 80,
+    "arabName": "التواب"
+  },
+  {
+    "name": "Al Muntaqim",
+    "number": 81,
+    "arabName": "المنتقم"
+  },
+  {
+    "name": "Al Afuww",
+    "number": 82,
+    "arabName": "العفو"
+  },
+  {
+    "name": "Ar Ra 'uuf",
+    "number": 83,
+    "arabName": "الرؤوف"
+  },
+  {
+    "name": "Malikul Mulk",
+    "number": 84,
+    "arabName": "مالك الملك"
+  },
+  {
+    "name": "Dhul Jalaali Wal Ikraam",
+    "number": 85,
+    "arabName": "ذو الجلال و الإكرام"
+  },
+  {
+    "name": "Al Muqsith",
+    "number": 86,
+    "arabName": "المقسط"
+  },
+  {
+    "name": "Al Jamii'",
+    "number": 87,
+    "arabName": "الجامع"
+  },
+  {
+    "name": "Al Ghaniyy",
+    "number": 88,
+    "arabName": "الغنى"
+  },
+  {
+    "name": "Al Mughnii",
+    "number": 89,
+    "arabName": "المغنى"
+  },
+  {
+    "name": "Al Maani",
+    "number": 90,
+    "arabName": "المانع"
+  },
+  {
+    "name": "Ad Dhaar",
+    "number": 91,
+    "arabName": "الضار"
+  },
+  {
+    "name": "An Nafii '",
+    "number": 92,
+    "arabName": "النافع"
+  },
+  {
+    "name": "An Nuur",
+    "number": 93,
+    "arabName": "النور"
+  },
+  {
+    "name": "Al Haadii",
+    "number": 94,
+    "arabName": "الهادئ"
+  },
+  {
+    "name": "Al Badii'",
+    "number": 95,
+    "arabName": "البديع"
+  },
+  {
+    "name": "Al Baaqii",
+    "number": 96,
+    "arabName": "الباقي"
+  },
+  {
+    "name": "Al Waarits",
+    "number": 97,
+    "arabName": "الوارث"
+  },
+  {
+    "name": "Ar Rashiid",
+    "number": 98,
+    "arabName": "الرشيد"
+  },
+  {
+    "name": "As Shabuur",
+    "number": 99,
+    "arabName": "الصبور"
+  },
+  {
+    "name": " ",
+    "number": 100,
+    "arabName": " "
+  }
+]
