@@ -11,10 +11,10 @@
   </a>
 
   <h3 align="center">MY-ISLAM</h3>
- <img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/src/images/1.png?raw=true" width="40%" height="40%"> 
- <img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/src/images/2.png?raw=true" width="40%" height="40%">
-<img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/src/images/3.png?raw=true" width="40%" height="40%"> 
-<img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/src/images/4.png?raw=true" width="40%" height="40%">
+ <img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/src/images/1.png?raw=true" width="100%" height="100%"> 
+ <img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/src/images/2.png?raw=true" width="100%" height="100%">
+<img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/src/images/3.png?raw=true" width="100%" height="100%"> 
+<img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/src/images/4.png?raw=true" width="100%" height="100%">
 
  
   <p align="center">
