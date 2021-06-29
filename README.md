@@ -6,7 +6,7 @@
 
 <br />
 <p align="center">
-  <a href="##">
+  <a href="https://my-islam-suraj-dev.netlify.app/">
     <img src="src/images/logo.png" alt="Logo" width="100" height="80">
   </a>
 
@@ -18,7 +18,7 @@
     <a href="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://my-islam-suraj-dev.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/sadiqabubakar526/MY-ISLAM/issues">Report Bug</a>
     ·
@@ -44,7 +44,7 @@
 
 ## About The Project
 
-[![Prayer Time][product-screenshot]](###)
+[![Prayer Time][product-screenshot]](https://my-islam-suraj-dev.netlify.app/)
 
 I always wanted to build something that can be useful for a community. First community i am in from my birth is muslim ! What a great opportunity for me to build something that can bring me peace and satisfaction and also be usefull for other people.
 
@@ -129,7 +129,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Suraj Abubakar - [@I_am_dulah](https://twitter.com/) - surajabubakar443@gmail.com
-Project Link: [##](##)
+Project Link: [https://my-islam-suraj-dev.netlify.app/](https://my-islam-suraj-dev.netlify.app/)
 
 [contributors-shield]: https://img.shields.io/github/contributors/sadiqabubakar526/MY-ISLAM.svg?style=for-the-badge
 [contributors-url]: https://github.com/sadiqabubakar526/MY-ISLAM/graphs/contributors
