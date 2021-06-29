@@ -50,7 +50,7 @@ const links = [
   },
   {
     link: 'https://www.linkedin.com/in/suraj-abubakar-2757b3202/',
-    icon: <LinkedIn />,
+    icon: <Linkedin />,
     name: 'linkedin',
   },
 ];
