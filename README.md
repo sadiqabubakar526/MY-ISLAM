@@ -11,11 +11,12 @@
   </a>
 
   <h3 align="center">MY-ISLAM</h3>
- <img src="https://github.com/sadiqabubakar526/MY-ISLAM/src/images/blob/master/1.png?raw=true" width="80%" height="80%">
- <img src="https://github.com/sadiqabubakar526/MY-ISLAM/src/images/blob/master/2.png?raw=true" width="80%" height="80%">
- <img src="https://github.com/sadiqabubakar526/MY-ISLAM/src/images/blob/master/3.png?raw=true" width="80%" height="80%">
- <img src="https://github.com/sadiqabubakar526/MY-ISLAM/src/images/blob/master/4.png?raw=true" width="80%" height="80%">
+ <img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/src/images/1.png?raw=true" width="40%" height="40%"> 
+ <img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/src/images/2.png?raw=true" width="40%" height="40%">
+<img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/src/images/3.png?raw=true" width="40%" height="40%"> 
+<img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/src/images/4.png?raw=true" width="40%" height="40%">
 
+ 
   <p align="center">
     Sharing with the muslim community, a little place where they can find quote, prayer times, and multiple useful services.
     <br />
