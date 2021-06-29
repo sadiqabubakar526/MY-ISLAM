@@ -12,6 +12,7 @@
 
   <h3 align="center">MY-ISLAM</h3>
 
+
   <p align="center">
     Sharing with the muslim community, a little place where they can find quote, prayer times, and multiple useful services.
     <br />
@@ -19,6 +20,14 @@
     <br />
     <br />
     <a href="https://my-islam-suraj-dev.netlify.app/">View Demo</a>
+
+      <img src="dev/1.png" height="80em" />
+      <img src="dev/2.png" height="80em" />
+      <img src="dev/3.png" height="80em" />
+      <img src="dev/4.png" height="80em" />
+      <img src="dev/5.png" height="80em" />
+
+
     ·
     <a href="https://github.com/sadiqabubakar526/MY-ISLAM/issues">Report Bug</a>
     ·
