@@ -11,7 +11,10 @@
   </a>
 
   <h3 align="center">MY-ISLAM</h3>
-
+ <img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/1.png?raw=true" width="80%" height="80%">
+ <img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/2.png?raw=true" width="80%" height="80%">
+ <img src="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/3.png?raw=true" width="80%" height="80%">
+ <img src="https://github.com/sadiqabubakar526/TIC-TAC-TOE/blob/master/4.png?raw=true" width="80%" height="80%">
 
   <p align="center">
     Sharing with the muslim community, a little place where they can find quote, prayer times, and multiple useful services.
@@ -19,16 +22,7 @@
     <a href="https://github.com/sadiqabubakar526/MY-ISLAM/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://my-islam-suraj-dev.netlify.app/">View Demo</a>
-
-      <img src="dev/1.png" height="80em" />
-      <img src="dev/2.png" height="80em" />
-      <img src="dev/3.png" height="80em" />
-      <img src="dev/4.png" height="80em" />
-      <img src="dev/5.png" height="80em" />
-
-
-    ·
+    <a href="https://my-islam-suraj-dev.netlify.app/">View Demo</a>   ·
     <a href="https://github.com/sadiqabubakar526/MY-ISLAM/issues">Report Bug</a>
     ·
     <a href="https://github.com/sadiqabubakar526/MY-ISLAM/issues">Request Feature</a>
