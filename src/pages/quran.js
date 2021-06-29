@@ -11,14 +11,14 @@ const Container = styled.div`
     text-align: center;
   }
   &.space-bottom {
-    padding: 7%;
+    padding: 5%;
   }
   &.list {
     display: flex;
     justify-content: space-evenly;
-    padding-top: 20px;
+    padding-top: 10px;
     @media screen and (max-width: ${breakPoints.S}) {
-      padding-top: 10px;
+      padding-top: 5px;
       flex-direction: column;
     }
   }
