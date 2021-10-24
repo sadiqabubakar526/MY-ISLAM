@@ -2,7 +2,7 @@
 //--------------------- Copyright Block ----------------------
 PrayTimes.js: Prayer Times Calculator (ver 2.3)
 Copyright (C) 2007-2011 PrayTimes.org
-Developer: Hamid Zarrabi-Zadeh
+Developer: Suraj Abubakar Dulah
 License: GNU LGPL v3.0
 TERMS OF USE:
 	Permission is granted to use this code, with or
