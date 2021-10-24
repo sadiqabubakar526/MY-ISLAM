@@ -9,7 +9,7 @@ const Container = styled.div`
   text-align: justify;
   align-items: center;
   margin: 0 auto;
-  width: 50em;
+  width: 60em;
   display: flex;
   flex-direction: column;
   color: ${(props) => props.theme.textColor};
@@ -31,7 +31,7 @@ const Container = styled.div`
 const Title = styled.h1`
   color: ${(props) => props.theme.textColor};
   margin: 0;
-  font-weight: 900;
+  font-weight: 800;
   text-align: center;
   padding: 5px;
   &:hover {
@@ -42,10 +42,10 @@ const Title = styled.h1`
 const Button = styled.button`
   background: ${(props) => props.theme.primaryColor};
   color: ${(props) => props.theme.textColor};
-  border-radius: 5px;
+  border-radius: 8px;
   border: none;
   padding: 10px;
-  font-size: 15px;
+  font-size: 12px;
   width: 150px;
   margin-bottom: 15px;
   cursor: pointer;
