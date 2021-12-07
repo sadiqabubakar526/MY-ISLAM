@@ -8,7 +8,6 @@ import breakPoints from '../components/breakpoints';
 
 const Container = styled.div`
   &.center {
-    width:100%;
     text-align: center;
   }
   &.space-bottom {
